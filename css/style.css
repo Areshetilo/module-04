@@ -35,12 +35,12 @@ img {
   text-transform: uppercase;
   color: #555252;
   font-family: "Roboto", sans-serif;
-  font-weight: 500;
+  font-weight: 300;
 }
 
 .logo::first-letter {
   color: #1abc9c;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .navigation {
